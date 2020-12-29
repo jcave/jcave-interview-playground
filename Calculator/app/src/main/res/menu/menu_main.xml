@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.onxmaps.playground.calculator.MainActivity">
+
+    <item
+        android:id="@+id/itemAddition"
+        android:title="@string/menu_title_addition" />
+    <item
+        android:id="@+id/itemSubtraction"
+        android:title="@string/menu_title_subtraction" />
+    <item
+        android:id="@+id/itemMultiplication"
+        android:title="@string/menu_title_multiplication" />
+    <item
+        android:id="@+id/itemDivision"
+        android:title="@string/menu_title_division" />
+    <item
+        android:id="@+id/itemModulus"
+        android:title="@string/menu_title_modulus" />
+</menu>

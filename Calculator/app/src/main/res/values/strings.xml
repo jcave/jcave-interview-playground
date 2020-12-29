@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Calculator</string>
+
+    <!-- Menu items -->
+    <string name="menu_title_addition">Addition</string>
+    <string name="menu_title_division">Division</string>
+    <string name="menu_title_modulus">Modulus</string>
+    <string name="menu_title_multiplication">Multiplication</string>
+    <string name="menu_title_subtraction">Subtraction</string>
+
+    <!-- Content descriptions -->
+    <string name="content_description_calculate">Calculate</string>
+
+</resources>
